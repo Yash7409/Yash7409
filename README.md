@@ -40,11 +40,15 @@
 
 ## 🌐 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashbardhan-gautam-0b3b0a2ba)
-- 📧 Email: gyash6759@gmail.com
-- 📱 Phone: +91 74096 28335
+<p align="center">
+  <a href="mailto:gyash6759@gmail.com"><img src="https://img.shields.io/badge/Email-gyash6759@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yashbardhan-gautam-0b3b0a2ba"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Bardhan%20Gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="tel:+917409628335"><img src="https://img.shields.io/badge/Call%20Me-%2B91%2074096%2028335-blue?style=for-the-badge"/></a>
+  <a href="https://www.hackerrank.com/profile/gyash6759"><img src="https://img.shields.io/badge/HackerRank-gyash6759-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
 ---
+
 
 ## 🏆 GitHub Stats
 
