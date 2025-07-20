@@ -5,6 +5,14 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yash7409&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Student-B.Tech%20CSE--AIML-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Scientist-Active-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analyst-Open%20for%20Internships-orange?style=for-the-badge"/>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
